@@ -3,11 +3,11 @@
 FROM alpine
 
 # Configuration. Will be overwritten using the config.yaml file or docker run configuration. 
-ENV CALLSIGN="AB1CDE"
-ENV LOCATOR="JJ00aa"
-ENV LAT="00"
-ENV LONG="00"
-ENV UTC_OFFSET="2"
+ENV CALLSIGN="VR2WAA"
+ENV LOCATOR="OL62xg"
+ENV LAT="22"
+ENV LONG="114"
+ENV UTC_OFFSET="8"
 ENV VOACAP_MODE="38"
 ENV VOACAP_POWER="100"
 ENV CALLSIGN_BACKGROUND_COLOR="100,100,100"
